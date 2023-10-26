@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lastcrudd/static/css/main.8cb4086a.css",
+    "main.js": "/lastcrudd/static/js/main.f2419906.js",
+    "index.html": "/lastcrudd/index.html",
+    "main.8cb4086a.css.map": "/lastcrudd/static/css/main.8cb4086a.css.map",
+    "main.f2419906.js.map": "/lastcrudd/static/js/main.f2419906.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cb4086a.css",
+    "static/js/main.f2419906.js"
+  ]
+}
